@@ -81,8 +81,8 @@ const Footer = () => {
 
         {/* Bottom section */}
         <div className="mt-10 border-t border-gray-200 pt-4 flex flex-col md:flex-row justify-between text-sm text-gray-600">
-          <p>&copy; {new Date().getFullYear()} codetutorbd.com</p>
-          <p>Created by Md Al Mamun</p>
+          <p>&copy; {new Date().getFullYear()} Mrunmayi.com</p>
+          <p>Created by Mrunmayi Jadhav</p>
         </div>
       </div>
     </footer>

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { FaCheckCircle, FaStar } from 'react-icons/fa';
 
-const PricingSection = () => {
+const Pricingsection = () => {
     const [productcount, setProductCount] = useState(1);
 
     // Calculate product price
@@ -88,4 +88,4 @@ const PricingSection = () => {
     );
 };
 
-export default PricingSection;
+export default Pricingsection;

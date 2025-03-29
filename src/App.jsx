@@ -9,9 +9,11 @@ import PurposeSection from './components/PurposeSection';
 import Feature from './components/Feature';
 import ScheduleSection from './components/ScheduleSection';
 import Monitorsection from './components/Monitorsection';
-import Pricingsection from './components/Pricingsection';
+import PricingSection from './components/Pricingsection';
+
 import Servicesection from './components/Servicesection';
 import NewletterSection from './components/NewletterSection';
+
 import TestimonialSection from './components/TestimonialSection';
 ;import Footer from './components/Footer'
 function App() {
